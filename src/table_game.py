@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 
-__author__ = "Nantha Kumar Sunder"
-__version__ = "0.1.0"
-__license__ = "MIT"
-
 import numpy as np
 import matplotlib.pyplot as plt
 import random
